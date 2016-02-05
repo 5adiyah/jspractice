@@ -1,1 +1,1 @@
-Visit 5adiyah.github.io/jspractice
+Visit http://5adiyah.github.io/jspractice/
